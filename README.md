@@ -117,7 +117,7 @@ Replace "Your Name" and "your.email@example.com" with your actual name and email
 To use Jupyter Notebooks inside VSCode, install the `ipykernel` package using the following command in your terminal or command prompt:
 
 ```bash
-conda install -c ipykernel -y
+conda install ipykernel -y
 ```
 
 Now,restart your vsconde, you can create and run Jupyter Notebooks and python directly within VSCode.
