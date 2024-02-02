@@ -1,4 +1,6 @@
-# Digipodium Python Data Analytics and Data Science Environment Setup
+<!-- shields -->
+
+# Python Data Analytics and Data Science Environment Setup
 
 ## Table of Contents
 
