@@ -64,7 +64,7 @@ Git is a version control system that will help you track changes in your code.
    - Visit the [Git website](https://git-scm.com/downloads) and download the installer for your operating system.
 
 2. **Install Git:**
-   - dont change any setting, keep pressing next and it will be installed. close allter
+   - dont change any setting, keep pressing next and it will be installed. close the window afterwards
 
 ### VSCode
 
@@ -99,7 +99,7 @@ Enhance your VSCode experience with the following extensions:
    - Navigate to the Extensions view (`Ctrl + Shift + X`).
    - Search for "VSCode Icons" and install the one you prefer.
 
-   <img src="images/vscode_python.png" height="100" style="border:1px solid white;border-radius:.3rem:margin-top:1rem">
+   <img src="images/vscode_icons.png" height="100" style="border:1px solid white;border-radius:.3rem:margin-top:1rem">
 
 ### Git Configuration
 `(create an account on github.com if you don't have one already)`
