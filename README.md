@@ -107,6 +107,9 @@ open your terminal and run the following commands to configure your Git username
 
 ```bash
 git config --global user.name "Your Name"
+```
+&
+```bash
 git config --global user.email "your.email@example.com"
 ```
 
